@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocksSorter", "BlocksSorter\BlocksSorter.csproj", "{61713483-252F-4107-B64B-535E9B93C556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorterClient", "SorterClient\SorterClient.csproj", "{73E05F8A-E5CB-4023-B2F0-F0A2519B0661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalGraphSorting", "TopologicalGraphSorting\TopologicalGraphSorting.csproj", "{2FBD3BC3-8198-4BE0-89CB-12BF9231612F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalGraphSorting.Tests", "TopologicalGraphSorting.Tests\TopologicalGraphSorting.Tests.csproj", "{DD1D93CA-E050-4BDF-BB58-EA3E47B0F1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61713483-252F-4107-B64B-535E9B93C556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61713483-252F-4107-B64B-535E9B93C556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61713483-252F-4107-B64B-535E9B93C556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61713483-252F-4107-B64B-535E9B93C556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E05F8A-E5CB-4023-B2F0-F0A2519B0661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E05F8A-E5CB-4023-B2F0-F0A2519B0661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E05F8A-E5CB-4023-B2F0-F0A2519B0661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E05F8A-E5CB-4023-B2F0-F0A2519B0661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBD3BC3-8198-4BE0-89CB-12BF9231612F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBD3BC3-8198-4BE0-89CB-12BF9231612F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBD3BC3-8198-4BE0-89CB-12BF9231612F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBD3BC3-8198-4BE0-89CB-12BF9231612F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1D93CA-E050-4BDF-BB58-EA3E47B0F1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1D93CA-E050-4BDF-BB58-EA3E47B0F1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1D93CA-E050-4BDF-BB58-EA3E47B0F1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1D93CA-E050-4BDF-BB58-EA3E47B0F1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FAC341E-A7B2-427B-AD7A-694C95E262B5}
+	EndGlobalSection
+EndGlobal

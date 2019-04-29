@@ -1,0 +1,6 @@
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\bin\Debug\BlocksSorter.dll
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\bin\Debug\BlocksSorter.pdb
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\obj\Debug\BlocksSorter.csprojAssemblyReference.cache
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\obj\Debug\BlocksSorter.csproj.CoreCompileInputs.cache
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\obj\Debug\BlocksSorter.dll
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\BlocksSorter\obj\Debug\BlocksSorter.pdb

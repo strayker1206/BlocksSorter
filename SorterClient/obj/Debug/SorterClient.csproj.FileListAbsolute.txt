@@ -1,0 +1,10 @@
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\bin\Debug\SorterClient.exe.config
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\bin\Debug\SorterClient.exe
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\bin\Debug\SorterClient.pdb
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\obj\Debug\SorterClient.csprojAssemblyReference.cache
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\obj\Debug\SorterClient.csproj.CoreCompileInputs.cache
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\obj\Debug\SorterClient.csproj.CopyComplete
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\obj\Debug\SorterClient.exe
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\obj\Debug\SorterClient.pdb
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\bin\Debug\TopologicalGraphSorting.dll
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\SorterClient\bin\Debug\TopologicalGraphSorting.pdb

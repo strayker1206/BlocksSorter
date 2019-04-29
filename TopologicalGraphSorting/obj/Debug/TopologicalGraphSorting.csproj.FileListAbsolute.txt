@@ -1,0 +1,6 @@
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\bin\Debug\TopologicalGraphSorting.dll
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\bin\Debug\TopologicalGraphSorting.pdb
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\obj\Debug\TopologicalGraphSorting.csproj.CoreCompileInputs.cache
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\obj\Debug\TopologicalGraphSorting.dll
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\obj\Debug\TopologicalGraphSorting.pdb
+C:\Users\badalov\Documents\Visual Studio 2017\Projects\BlocksSorter\TopologicalGraphSorting\obj\Debug\TopologicalGraphSorting.csprojAssemblyReference.cache
